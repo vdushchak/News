@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="key">163e99db84ff4488bcc39b0919fd8ecb</string>
+    <string name="base_url"> https://newsapi.org/v1/</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+</resources>
